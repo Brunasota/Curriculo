@@ -1,3 +1,4 @@
+<p style="font-family: Arial, sans-serif; font-size: 800px;">Este texto está em Arial e tem um tamanho de 16px.</p>
 #  Olá Bem-vindo ao meu perfil github !
 ## ⭐ Meu nome é Bruna Sota Boita ⭐!
 <img
