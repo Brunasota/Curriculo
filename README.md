@@ -16,3 +16,5 @@
   <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <img 
   
+![Brunasota's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brunasota&theme=dracula&hide_border=false)
+![Brunasota's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunasota&theme=dracula&show_icons=true&hide_border=false&layout=compact)
